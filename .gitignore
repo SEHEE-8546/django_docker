@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.splite3
+
+venv/
+.env/
+*.env
+
+.vscode/
+.idea/
